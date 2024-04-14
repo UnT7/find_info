@@ -6,8 +6,7 @@
 
 效果如下：
 
-<img width="567" alt="image" src="https://github.com/hackerxj007/find_info/assets/23031720/8b4508a2-1368-4a98-9eec-83943f0869a6">
-
+<img width="532" alt="image" src="https://github.com/hackerxj007/find_info/assets/23031720/e5704340-6e7c-43fa-ab39-5146b8b909bc">
 
 
 正则匹配的规则：find/find.go
